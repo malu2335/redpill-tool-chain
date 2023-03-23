@@ -352,7 +352,7 @@
       },
       "redpill_load": {
         "source_url": "https://github.com/malu2335/redpill-load.git",
-        "branch": "develop"
+        "branch": "master"
       },
       "build_env":{
       "jun_mod": 1,
@@ -383,7 +383,7 @@
       },
       "redpill_load": {
         "source_url": "https://github.com/malu2335/redpill-load.git",
-        "branch": "develop"
+        "branch": "master"
       }
     },
     {
@@ -410,7 +410,7 @@
       },
       "redpill_load": {
         "source_url": "https://github.com/malu2335/redpill-load.git",
-        "branch": "develop"
+        "branch": "master"
       },
       "build_env": {
         "jun_mod": 1,
@@ -441,7 +441,7 @@
       },
       "redpill_load": {
         "source_url": "https://github.com/malu2335/redpill-load.git",
-        "branch": "develop"
+        "branch": "master"
       }
     },
     {
